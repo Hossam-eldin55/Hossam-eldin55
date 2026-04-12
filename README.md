@@ -19,6 +19,4 @@ I'm a Computer Science Engineering student with a strong interest in Data Scienc
 ![](https://github-contributor-stats.vercel.app/api?username=Hossam-eldin55&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Hossam-eldin55&icon=0&color=white)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://komarev.com/ghpvc/?username=Hossam-eldin55&icon=0)](https://visitcount.itsvg.in)
