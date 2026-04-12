@@ -15,8 +15,6 @@ I'm a Computer Science Engineering student with a strong interest in Data Scienc
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hossam-eldin55&limit=5&theme=default&combine_all_yearly_contributions=true)
+[![](https://komarev.com/ghpvc/?username=Hossam-eldin55&icon=0)](https://visitcount.itsvg.in)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Hossam-eldin55&icon=0)](https://visitcount.itsvg.in)
